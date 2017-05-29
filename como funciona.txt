@@ -1,0 +1,8 @@
+Para criar um novo campo tem que adicionar em:
+
+Views>OS>AdicionarOS e editarOS
+Controllers>os.php
+	function adicionar(){
+	function editar(){
+aplciation>config>form_validation
+	 'os' => array(array(
